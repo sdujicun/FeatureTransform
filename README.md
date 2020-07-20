@@ -1,6 +1,6 @@
 # FeatureTransform
-Transform time series based on shapelet features
+Transform time series based on shapelet features.
 
-please use    “src/feature/ShapeletFeatureTransform”   to transform time series
+please use    “src/feature/ShapeletFeatureTransform”   to transform time series.
 
-The transformed datasets are in the fold “result”
+The transformed datasets are in the fold “result”.
