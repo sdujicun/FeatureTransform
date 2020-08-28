@@ -46,7 +46,7 @@ public class ShapeletFeatureTransform {
 			throws Exception {
 		final String resampleLocation = DataSets.problemPath;
 		final String dataset = problem;
-		String path = "./result/shapelet2/" + problem;
+		String path = "./result/shapelet/" + problem;
 		File dir = new File(path);
 		if (!dir.exists()) {
 			dir.mkdir();
